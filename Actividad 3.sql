@@ -42,3 +42,6 @@ Asegurarse de que el usuario postgres tenga una contraseña segura.
 Crear roles y permisos específicos para cada tipo de usuario
 Realizar backups automáticos
 Encriptar datos sensibles
+
+/*Repositorio*/
+https://github.com/LJAgudelo/elecciones-ucnpst
